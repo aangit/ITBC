@@ -1,7 +1,6 @@
 # Prove that the following formulas are tautologies, using Python logical operators. 
-# Display the results to the user on standard output. 
-# A tautology is an expression in propositional logic that is true for
-# every possible combination of truth values of its variables
+\Display the results to the user on standard output. 
+A tautology is an expression in propositional logic that is true for every possible combination of truth values of itsmvariables
 
 # p→(p∨q)
 # ¬(¬p ∧ q)↔(p∨¬q)
